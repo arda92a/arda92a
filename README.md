@@ -11,5 +11,7 @@
 - Java
 - SQL / MySQL
 
-## My GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&hide_title=true&count_private=true&hide=prs
+<h2 align="center">My GitHub Statistics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="GitHub Statistics">
+</p>
