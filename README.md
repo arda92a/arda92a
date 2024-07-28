@@ -12,4 +12,4 @@
 - SQL / MySQL
 
 ## My GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&hide_title=true&count_private=true&hide=prs
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&hide_title=true&count_private=true&hide=prs
