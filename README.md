@@ -17,8 +17,5 @@
 </p>
 <h2 align="center">📈 My GitHub Contributions</h2>
               
-- name: generate-snake-game-from-github-contribution-grid
-
-
-              
-  uses: Platane/snk@v3.2.0
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
