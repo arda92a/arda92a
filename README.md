@@ -1,4 +1,4 @@
-# Merhaba, ben [Kullanıcı Adı](https://github.com/kullaniciadi) 👋
+# Hello everyone, I am [Arda Öztüner](https://github.com/arda92a) 👋
 
 ## İlgilendiğim Programlama Dilleri
 - **Python** ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python)
