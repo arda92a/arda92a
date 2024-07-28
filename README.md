@@ -16,6 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="GitHub Statistics">
 </p>
 <h2 align="center">📈 My GitHub Contributions</h2>
-<p align="center">
-  <img src="https://github.com/arda92a/arda92a/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph">
-</p>
+              
+- name: generate-snake-game-from-github-contribution-grid
+
+
+              
+  uses: Platane/snk@v3.2.0
