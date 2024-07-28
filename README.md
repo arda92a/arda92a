@@ -1,4 +1,4 @@
-<h1 align="center"># Hello everyone, I am [Arda Öztüner](https://github.com/arda92a) 👋</h1>
+<h2 align="center"># Hello everyone, I am [Arda Öztüner](https://github.com/arda92a) 👋</h2>
 
 ## İlgilendiğim Programlama Dilleri
 - **Python** ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python)
