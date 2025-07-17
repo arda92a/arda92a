@@ -1,100 +1,206 @@
-<h1 align="center">Hi, I'm Arda Öztüner 👋</h1>
-<p align="center">
-  Passionate about building intelligent systems that make sense of data, learn from it, and take action.
-  <br>
-  I specialize in data-centric AI, computer vision, and machine learning.
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi,%20I'm%20Arda%20Öztüner&fontSize=40&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Analyst;🖼️+Computer+Vision+Specialist;🚀+Building+Intelligent+Systems;💡+Turning+Data+into+Insights;🎯+Always+Learning+Something+New!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arda92a&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arda92a?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/arda92a?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</div>
 
 ---
 
-## 🌟 Who Am I?
-🎓 An explorer of data and intelligence through code  
-📊 Enthusiast in machine learning, image processing, and data engineering  
-🛠️ A builder of useful tools, ML pipelines, and intelligent systems  
-📈 Lifelong learner with a curiosity for solving real-world problems  
+## 🎮 Interactive Profile Dashboard
+
+<div align="center">
+  
+### 🔥 Current Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arda92a&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 📊 Live GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda92a&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180">
+
+### 🐍 Contribution Snake Game
+![Snake animation](https://github.com/arda92a/arda92a/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-## 💼 My Toolbox
+## 🌟 About Me - Click to Reveal!
+
+<details>
+<summary>🎯 Who Am I? (Click to expand)</summary>
+
+```python
+class ArdaOztuner:
+    def __init__(self):
+        self.name = "Arda Öztüner"
+        self.role = "AI & Machine Learning Engineer"
+        self.location = "🌍 Earth"
+        self.current_focus = ["Computer Vision", "Deep Learning", "MLOps"]
+        self.fun_fact = "I can debug code better with coffee ☕"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+        
+    def current_mood(self):
+        return "🤖 Training neural networks and loving it!"
+
+me = ArdaOztuner()
+me.say_hi()
+```
+
+🎓 **Explorer of Data & Intelligence**  
+📊 **ML Enthusiast & Problem Solver**  
+🛠️ **Builder of Intelligent Systems**  
+📈 **Lifelong Learner & Curious Mind**  
+
+</details>
+
+---
+
+## 💼 My Tech Arsenal
 
 ### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI & ML"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Core" />
   <br>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+  <img src="https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔍_Computer_Vision-4ECDC4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_Data_Science-45B7D1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_Deep_Learning-96CEB4?style=for-the-badge&logoColor=white" />
+</div>
 
-### 🧠 Deep Learning & Neural Networks
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
-</p>
+### 🧠 AI Frameworks & Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
 
-### 📊 Data Visualization & Analysis
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+### 📊 Data Visualization Magic
+<div align="center">
+  <img src="https://img.shields.io/badge/📈_Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Seaborn-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_Plotly-3F4F75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Streamlit-FF4B4B?style=for-the-badge&logoColor=white" />
+</div>
 
 ### 🚀 Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="Backend Frameworks"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
   <br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" alt="Databases"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" alt="Cloud & DevOps"/>
-</p>
-
-### 🛠️ Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,java" alt="Development Tools"/>
-  <br>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-</p>
+  <img src="https://img.shields.io/badge/⚡_FastAPI-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐍_Flask-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Django-092E20?style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-## 🔍 Fields of Interest
-- 🤖 **Machine Learning & AI**  
-- 🖼️ **Computer Vision & Deep Learning**  
-- 📦 **Data Analysis & Engineering**  
-- 🧪 **Experiment Tracking & MLOps**  
-- 🌐 **Interactive Tools & AI Applications**  
+## 🎯 Skills Progress Bar
+
+<div align="center">
+
+**Python** 🐍  
+![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python&logoColor=white)
+
+**Machine Learning** 🤖  
+![ML](https://img.shields.io/badge/Machine%20Learning-85%25-green?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Computer Vision** 👁️  
+![CV](https://img.shields.io/badge/Computer%20Vision-80%25-orange?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Data Analysis** 📊  
+![Data](https://img.shields.io/badge/Data%20Analysis-88%25-purple?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Deep Learning** 🧠  
+![DL](https://img.shields.io/badge/Deep%20Learning-82%25-red?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&theme=default&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda92a&layout=compact&hide=html,css" height="165">
-</p>
+## 🎮 Fun Zone
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem-arda92a.vercel.app/api/spotify)](https://open.spotify.com/user/arda92a)
+
+### 🎲 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=arda92a&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+### 📈 Activity Graph
+[![Arda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arda92a&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🌐 Let's Connect!
-- 📬 [LinkedIn](https://www.linkedin.com/in/arda-%C3%B6zt%C3%BCner)  
-- 🌍 [Portfolio Website](https://ardaoztuner.com) *(eğer varsa)*  
-- 💬 Always open to discussing ideas, giving/receiving feedback, or collaboration opportunities
+## 🚀 Current Focus Areas
+
+```mermaid
+graph TD
+    A[🎯 Current Goals] --> B[🤖 Advanced AI Models]
+    A --> C[📊 MLOps Pipeline]
+    A --> D[🖼️ Computer Vision Projects]
+    A --> E[🚀 Production Deployment]
+    
+    B --> F[Transformer Models]
+    B --> G[Neural Architecture Search]
+    
+    C --> H[Model Monitoring]
+    C --> I[Automated Training]
+    
+    D --> J[Object Detection]
+    D --> K[Image Segmentation]
+    
+    E --> L[FastAPI Services]
+    E --> M[Cloud Deployment]
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  
+### 📬 Reach Out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-%C3%B6zt%C3%BCner)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ardaoztuner.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 💬 Open For:
+- 🤝 **Collaboration** on AI/ML projects
+- 💡 **Discussions** about latest tech trends  
+- 🎯 **Feedback** on projects and ideas
+- 📚 **Knowledge sharing** and learning together
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  
+### 🎉 Fun Fact of the Day
+*"I debug with print statements and I'm not ashamed!"* 😄
+
+**⭐ If you like what you see, consider starring some repositories! ⭐**
+
+</div>
