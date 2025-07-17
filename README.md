@@ -25,9 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arda92a&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="180">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda92a&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180">
 
-### 🐍 Contribution Snake Game
-![Snake animation](https://github.com/arda92a/arda92a/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
