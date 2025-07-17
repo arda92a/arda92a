@@ -1,0 +1,35 @@
+name: Daily Fun Fact Updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gün gece yarısı çalışır (UTC)
+  workflow_dispatch: # Manual olarak da çalıştırabilirsin
+
+jobs:
+  update-fun-fact:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Update Fun Fact
+      run: |
+        python update_fun_fact.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "🎲 Daily fun fact updated - $(date '+%Y-%m-%d')"
+        git push
