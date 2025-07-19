@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are over 700 programming languages in existence! 🌈"* 😄
+*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
