@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer programmer was paid $3 per hour in 1951! 💵"* 😄
+*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
