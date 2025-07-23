@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
+*"Quantum computers could break current encryption in seconds! 🔐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
