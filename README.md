@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Quantum computers could break current encryption in seconds! 🔐"* 😄
+*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
