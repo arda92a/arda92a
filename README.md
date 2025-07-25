@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
+*"Reddit was originally written in Lisp but was rewritten in Python! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
