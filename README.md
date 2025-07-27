@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
+*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
