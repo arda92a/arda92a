@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
+*"The fastest supercomputer can perform 1 quintillion calculations per second! ⚡"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
