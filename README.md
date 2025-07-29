@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The fastest supercomputer can perform 1 quintillion calculations per second! ⚡"* 😄
+*"I've trained models that can generate realistic fake faces! 👤"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
