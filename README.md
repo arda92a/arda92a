@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
+*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
