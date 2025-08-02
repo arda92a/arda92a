@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
+*"Docker containers can start in less than 100 milliseconds! 🐳"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
