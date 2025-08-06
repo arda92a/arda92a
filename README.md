@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Stack Overflow gets over 50 million visitors per month! 📚"* 😄
+*"NASA still uses software from the 1970s for some systems! 🚀"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
