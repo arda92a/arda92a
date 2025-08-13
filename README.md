@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first domain name ever registered was symbolics.com in 1985! 🌐"* 😄
+*"Rubber duck debugging is a real programming technique! 🦆"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
