@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Rubber duck debugging is a real programming technique! 🦆"* 😄
+*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
