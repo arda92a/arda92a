@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first webcam was used to monitor a coffee pot! ☕"* 😄
+*"My computer vision models can process 1000 images per second! 👁️⚡"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
