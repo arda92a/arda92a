@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision models can process 1000 images per second! 👁️⚡"* 😄
+*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
