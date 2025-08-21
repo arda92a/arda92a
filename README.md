@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
+*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
