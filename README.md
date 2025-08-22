@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
