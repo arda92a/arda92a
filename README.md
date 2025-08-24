@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"AI can now detect diseases from medical images with 99% accuracy! 👨‍⚕️"* 😄
+*"I can make a machine learning model that predicts coffee consumption! ☕🤖"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
