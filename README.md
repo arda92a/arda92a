@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can make a machine learning model that predicts coffee consumption! ☕🤖"* 😄
+*"TensorFlow was originally developed by Google Brain team! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
