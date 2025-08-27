@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
