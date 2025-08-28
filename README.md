@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
+*"The first computer programmer was paid $3 per hour in 1951! 💵"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
