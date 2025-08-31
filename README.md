@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Reddit was originally written in Lisp but was rewritten in Python! 🐍"* 😄
+*"I can make AI models that generate code from natural language! 💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
