@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can make AI models that generate code from natural language! 💻"* 😄
+*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
