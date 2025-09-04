@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Binary code was invented in 1679, way before computers! 🔢"* 😄
+*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
