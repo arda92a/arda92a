@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
+*"I can make AI models that generate code from natural language! 💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
