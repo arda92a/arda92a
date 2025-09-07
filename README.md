@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The most expensive domain name ever sold was CarInsurance.com for $49.7 million! 💰"* 😄
+*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
