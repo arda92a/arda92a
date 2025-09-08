@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
+*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
