@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer mouse was made of wood! 🖱️"* 😄
+*"Google's first server was made from LEGO blocks! 🧱"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
