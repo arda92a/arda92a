@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
+*"Binary code was invented in 1679, way before computers! 🔢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
