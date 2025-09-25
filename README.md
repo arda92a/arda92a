@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can train a neural network to recognize cats vs dogs with 99% accuracy! 🐱🐶"* 😄
+*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
