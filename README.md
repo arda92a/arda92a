@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer programmer bug report was filed in 1947! 📋"* 😄
+*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
