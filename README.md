@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Google's first server was made from LEGO blocks! 🧱"* 😄
+*"Binary code was invented in 1679, way before computers! 🔢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
