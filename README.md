@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are over 700 programming languages in existence! 🌈"* 😄
+*"My largest dataset had over 10 million images! 📊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
