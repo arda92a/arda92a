@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"Rubber duck debugging is a real programming technique! 🦆"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
