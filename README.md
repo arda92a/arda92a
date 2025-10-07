@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Linux penguin mascot is named Tux! 🐧"* 😄
+*"My reinforcement learning agent can beat me at simple games! 🎮"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
