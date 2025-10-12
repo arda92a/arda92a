@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
+*"Google's first server was made from LEGO blocks! 🧱"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
