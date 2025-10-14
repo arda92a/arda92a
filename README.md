@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
