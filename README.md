@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Python's import antigravity actually opens an xkcd comic! 🚀"* 😄
+*"The first computer bug was an actual bug - a moth stuck in a relay in 1947! 🐛"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
