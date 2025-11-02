@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"WiFi stands for nothing - it's not an acronym! 📶"* 😄
+*"The first computer weighed 30 tons and filled an entire room! 🏢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
