@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer weighed 30 tons and filled an entire room! 🏢"* 😄
+*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
