@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"The first domain name ever registered was symbolics.com in 1985! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
