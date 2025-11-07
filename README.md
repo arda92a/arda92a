@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The fastest supercomputer can perform 1 quintillion calculations per second! ⚡"* 😄
+*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
