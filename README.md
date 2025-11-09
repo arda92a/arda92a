@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"AI can now detect diseases from medical images with 99% accuracy! 👨‍⚕️"* 😄
+*"YouTube was originally designed as a dating site! 💕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
