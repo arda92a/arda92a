@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The term 'spam' comes from a Monty Python sketch! 🥫"* 😄
+*"Docker containers can start in less than 100 milliseconds! 🐳"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
