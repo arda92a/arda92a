@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
+*"YouTube was originally designed as a dating site! 💕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
