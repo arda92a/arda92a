@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"YouTube was originally designed as a dating site! 💕"* 😄
+*"The first computer hard drive was 5MB and cost $10,000! 💾"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
