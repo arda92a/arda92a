@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer hard drive was 5MB and cost $10,000! 💾"* 😄
+*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
