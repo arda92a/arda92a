@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Binary code was invented in 1679, way before computers! 🔢"* 😄
+*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
