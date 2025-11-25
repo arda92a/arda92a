@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
+*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
