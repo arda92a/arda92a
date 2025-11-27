@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can make AI models that generate code from natural language! 💻"* 😄
+*"My reinforcement learning agent can beat me at simple games! 🎮"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
