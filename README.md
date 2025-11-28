@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My reinforcement learning agent can beat me at simple games! 🎮"* 😄
+*"Neural networks were inspired by how the human brain works! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
