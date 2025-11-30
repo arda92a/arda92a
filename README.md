@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
+*"The term 'spam' comes from a Monty Python sketch! 🥫"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
