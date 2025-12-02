@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
+*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
