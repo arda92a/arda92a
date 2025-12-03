@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
+*"Quantum computers could break current encryption in seconds! 🔐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
