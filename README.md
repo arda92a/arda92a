@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Quantum computers could break current encryption in seconds! 🔐"* 😄
+*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
