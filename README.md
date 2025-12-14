@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
