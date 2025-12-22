@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer hard drive was 5MB and cost $10,000! 💾"* 😄
+*"The term 'spam' comes from a Monty Python sketch! 🥫"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
