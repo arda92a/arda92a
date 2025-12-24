@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first AI program was written in 1951! 🤖"* 😄
+*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
