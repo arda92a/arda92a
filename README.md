@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can train a neural network to recognize cats vs dogs with 99% accuracy! 🐱🐶"* 😄
+*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
