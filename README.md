@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
+*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
