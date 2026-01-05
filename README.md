@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can make a machine learning model that predicts coffee consumption! ☕🤖"* 😄
+*"I once debugged a model for 6 hours only to find a missing comma! 😅"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
