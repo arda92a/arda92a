@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"OpenCV was originally developed by Intel in 1999! 👁️"* 😄
+*"The first iPhone had the same processing power as a 1985 Cray-2 supercomputer! 📱"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
