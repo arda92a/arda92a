@@ -66,7 +66,6 @@ me.say_hi()
 
 ### 🤖 AI & Machine Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Core" />
   <br>
   <img src="https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🔍_Computer_Vision-4ECDC4?style=for-the-badge&logoColor=white" />
