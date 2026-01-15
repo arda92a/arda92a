@@ -129,7 +129,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are over 700 programming languages in existence! 🌈"* 😄
+*"I've trained models that can generate realistic fake faces! 👤"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
