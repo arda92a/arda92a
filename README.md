@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I've trained models that can generate realistic fake faces! 👤"* 😄
+*"I can make AI models that generate code from natural language! 💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
