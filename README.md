@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"OpenCV was originally developed by Intel in 1999! 👁️"* 😄
+*"Git was created by Linus Torvalds in just 2 weeks! 🚀"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
