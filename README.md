@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Git was created by Linus Torvalds in just 2 weeks! 🚀"* 😄
+*"I can make a machine learning model that predicts coffee consumption! ☕🤖"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
