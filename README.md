@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can make a machine learning model that predicts coffee consumption! ☕🤖"* 😄
+*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
