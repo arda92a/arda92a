@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
+*"I can train a neural network to recognize cats vs dogs with 99% accuracy! 🐱🐶"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
