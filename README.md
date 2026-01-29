@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
+*"The first YouTube video was uploaded on April 23, 2005! 📹"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
