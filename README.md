@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first domain name ever registered was symbolics.com in 1985! 🌐"* 😄
+*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
