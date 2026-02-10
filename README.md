@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision models can process 1000 images per second! 👁️⚡"* 😄
+*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
