@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
+*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
