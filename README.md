@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
+*"Linux penguin mascot is named Tux! 🐧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
