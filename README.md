@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer mouse was made of wood! 🖱️"* 😄
+*"WiFi stands for nothing - it's not an acronym! 📶"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
