@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"GPT-3 has 175 billion parameters! 🧠"* 😄
+*"The first AI program was written in 1951! 🤖"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
