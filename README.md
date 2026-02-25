@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first AI program was written in 1951! 🤖"* 😄
+*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
