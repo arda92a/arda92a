@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
+*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
