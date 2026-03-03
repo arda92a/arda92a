@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
+*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
