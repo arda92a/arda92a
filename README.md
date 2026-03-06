@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
+*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
