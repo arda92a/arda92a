@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
+*"Docker containers can start in less than 100 milliseconds! 🐳"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
