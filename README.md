@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I once debugged a model for 6 hours only to find a missing comma! 😅"* 😄
+*"The first AI program was written in 1951! 🤖"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
