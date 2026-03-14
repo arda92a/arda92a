@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I've trained models that can generate realistic fake faces! 👤"* 😄
+*"Neural networks were inspired by how the human brain works! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
