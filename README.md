@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
+*"Linux penguin mascot is named Tux! 🐧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
