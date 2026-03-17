@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Linux penguin mascot is named Tux! 🐧"* 😄
+*"Docker containers can start in less than 100 milliseconds! 🐳"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
