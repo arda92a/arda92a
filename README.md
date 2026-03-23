@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"TensorFlow was originally developed by Google Brain team! 🧠"* 😄
+*"The first computer mouse was made of wood! 🖱️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
