@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer mouse was made of wood! 🖱️"* 😄
+*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
