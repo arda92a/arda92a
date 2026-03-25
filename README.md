@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
+*"The '@' symbol was used in email for the first time in 1971! 📧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
