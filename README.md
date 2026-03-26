@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The '@' symbol was used in email for the first time in 1971! 📧"* 😄
+*"The first computer weighed 30 tons and filled an entire room! 🏢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
