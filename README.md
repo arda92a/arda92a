@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Deep learning models can have billions of parameters! 📊"* 😄
+*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
