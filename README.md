@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
+*"The first computer with integrated circuits was built in 1958! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
