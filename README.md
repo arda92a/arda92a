@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"The first computer programmer was paid $3 per hour in 1951! 💵"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
