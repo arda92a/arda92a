@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
+*"YouTube was originally designed as a dating site! 💕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
