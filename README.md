@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
+*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
