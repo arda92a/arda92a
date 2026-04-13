@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
+*"The first computer programmer bug report was filed in 1947! 📋"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
