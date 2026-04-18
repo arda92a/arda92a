@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Reddit was originally written in Lisp but was rewritten in Python! 🐍"* 😄
+*"Rubber duck debugging is a real programming technique! 🦆"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
