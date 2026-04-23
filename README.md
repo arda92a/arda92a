@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can train a neural network to recognize cats vs dogs with 99% accuracy! 🐱🐶"* 😄
+*"OpenCV was originally developed by Intel in 1999! 👁️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
