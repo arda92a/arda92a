@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"OpenCV was originally developed by Intel in 1999! 👁️"* 😄
+*"JavaScript was created in just 10 days in 1995! ⚡"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
