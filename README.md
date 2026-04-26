@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer programmer was paid $3 per hour in 1951! 💵"* 😄
+*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
