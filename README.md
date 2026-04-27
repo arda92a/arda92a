@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
+*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
