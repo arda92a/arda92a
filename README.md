@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"AI can now detect diseases from medical images with 99% accuracy! 👨‍⚕️"* 😄
+*"The first computer weighed 30 tons and filled an entire room! 🏢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
