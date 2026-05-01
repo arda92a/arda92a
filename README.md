@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer weighed 30 tons and filled an entire room! 🏢"* 😄
+*"The first computer programmer bug report was filed in 1947! 📋"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
