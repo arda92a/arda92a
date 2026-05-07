@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer programmer bug report was filed in 1947! 📋"* 😄
+*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
