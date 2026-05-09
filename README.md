@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
+*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
