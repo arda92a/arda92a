@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
+*"The first programming language was created in 1883 for the Jacquard loom! 🧵"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
