@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The '@' symbol was used in email for the first time in 1971! 📧"* 😄
+*"My largest dataset had over 10 million images! 📊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
