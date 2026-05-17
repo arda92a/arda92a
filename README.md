@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
+*"The first computer game was created in 1962 and was called 'Spacewar!'! 🎮"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
