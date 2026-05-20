@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
+*"OpenCV was originally developed by Intel in 1999! 👁️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
