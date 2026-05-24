@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are more possible chess moves than atoms in the observable universe! ♟️"* 😄
+*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
