@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"There are over 700 programming languages in existence! 🌈"* 😄
+*"The fastest supercomputer can perform 1 quintillion calculations per second! ⚡"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
