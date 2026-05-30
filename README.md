@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The fastest supercomputer can perform 1 quintillion calculations per second! ⚡"* 😄
+*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
