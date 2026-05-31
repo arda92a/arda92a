@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
+*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
