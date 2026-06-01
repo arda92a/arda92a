@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
+*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
