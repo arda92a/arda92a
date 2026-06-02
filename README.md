@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
+*"I've trained models that can generate realistic fake faces! 👤"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
