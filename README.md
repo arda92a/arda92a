@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"My data preprocessing pipeline is more complex than the actual model! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
