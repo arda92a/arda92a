@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Neural networks were inspired by how the human brain works! 🧠"* 😄
+*"Binary code was invented in 1679, way before computers! 🔢"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
