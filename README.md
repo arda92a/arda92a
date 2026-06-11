@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Binary code was invented in 1679, way before computers! 🔢"* 😄
+*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
