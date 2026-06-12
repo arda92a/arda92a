@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The term 'debugging' was coined by Grace Hopper in 1947! 🔧"* 😄
+*"The first computer mouse was made of wood! 🖱️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
