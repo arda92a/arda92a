@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer mouse was made of wood! 🖱️"* 😄
+*"Reddit was originally written in Lisp but was rewritten in Python! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
