@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first programmer in history was Ada Lovelace in 1843! 👩‍💻"* 😄
+*"NASA still uses software from the 1970s for some systems! 🚀"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
