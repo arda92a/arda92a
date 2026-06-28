@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
