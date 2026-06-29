@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
+*"GPT-3 has 175 billion parameters! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
