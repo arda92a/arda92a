@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
+*"My computer vision models can process 1000 images per second! 👁️⚡"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
