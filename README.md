@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision models can process 1000 images per second! 👁️⚡"* 😄
+*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
