@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I once debugged a model for 6 hours only to find a missing comma! 😅"* 😄
+*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
