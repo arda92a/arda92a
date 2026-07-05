@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"Python was named after Monty Python's Flying Circus, not the snake! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
