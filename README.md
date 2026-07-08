@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Stack Overflow gets over 50 million visitors per month! 📚"* 😄
+*"Linux penguin mascot is named Tux! 🐧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
