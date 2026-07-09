@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Linux penguin mascot is named Tux! 🐧"* 😄
+*"Java was originally called Oak, but had to be renamed due to trademark issues! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
