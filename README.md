@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My largest dataset had over 10 million images! 📊"* 😄
+*"The first webcam was used to monitor a coffee pot! ☕"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
