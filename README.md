@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first webcam was used to monitor a coffee pot! ☕"* 😄
+*"My neural networks dream in tensors and gradients! 🧠💭"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
