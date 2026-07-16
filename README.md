@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The word 'algorithm' comes from a 9th-century Persian mathematician! 📚"* 😄
+*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
