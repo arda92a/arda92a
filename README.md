@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
+*"AI can now detect diseases from medical images with 99% accuracy! 👨‍⚕️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
