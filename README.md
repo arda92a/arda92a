@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
+*"The term 'spam' comes from a Monty Python sketch! 🥫"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
