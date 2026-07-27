@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The term 'spam' comes from a Monty Python sketch! 🥫"* 😄
+*"The first domain name ever registered was symbolics.com in 1985! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
