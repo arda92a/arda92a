@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first domain name ever registered was symbolics.com in 1985! 🌐"* 😄
+*"GPT-3 has 175 billion parameters! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
