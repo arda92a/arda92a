@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
+*"I can build a chatbot that tells programming jokes! 🤖😄"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
