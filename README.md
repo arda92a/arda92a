@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first iPhone had the same processing power as a 1985 Cray-2 supercomputer! 📱"* 😄
+*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
