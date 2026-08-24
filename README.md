@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The average programmer drinks 3-4 cups of coffee per day! ☕"* 😄
+*"My GPU fan sounds like a jet engine when training deep models! 🚁"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
