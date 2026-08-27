@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The most expensive domain name ever sold was CarInsurance.com for $49.7 million! 💰"* 😄
+*"The first computer bug was an actual bug - a moth stuck in a relay in 1947! 🐛"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
