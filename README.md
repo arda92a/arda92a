@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer bug was an actual bug - a moth stuck in a relay in 1947! 🐛"* 😄
+*"I've created models that can style transfer like Van Gogh! 🎨"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
