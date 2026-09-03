@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I can train a neural network to recognize cats vs dogs with 99% accuracy! 🐱🐶"* 😄
+*"Deep learning models can have billions of parameters! 📊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
