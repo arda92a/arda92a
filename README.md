@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Deep learning models can have billions of parameters! 📊"* 😄
+*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
