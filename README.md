@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
+*"TensorFlow was originally developed by Google Brain team! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
