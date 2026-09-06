@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"TensorFlow was originally developed by Google Brain team! 🧠"* 😄
+*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
