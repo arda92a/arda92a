@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer virus was created in 1971 and was called 'Creeper'! 🦠"* 😄
+*"WiFi stands for nothing - it's not an acronym! 📶"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
