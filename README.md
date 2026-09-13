@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Rubber duck debugging is a real programming technique! 🦆"* 😄
+*"AI can now detect diseases from medical images with 99% accuracy! 👨‍⚕️"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
