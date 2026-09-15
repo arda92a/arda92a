@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Quantum computers could break current encryption in seconds! 🔐"* 😄
+*"The '@' symbol was used in email for the first time in 1971! 📧"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
