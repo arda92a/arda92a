@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"My computer vision projects can detect emotions from facial expressions! 😊"* 😄
+*"My largest dataset had over 10 million images! 📊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
