@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"GPT-3 has 175 billion parameters! 🧠"* 😄
+*"My largest dataset had over 10 million images! 📊"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
