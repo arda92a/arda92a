@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Machine learning algorithms can now write their own code! 🤖"* 😄
+*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
