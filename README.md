@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first iPhone had the same processing power as a 1985 Cray-2 supercomputer! 📱"* 😄
+*"Neural networks were inspired by how the human brain works! 🧠"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
