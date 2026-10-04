@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Facebook's original color scheme was blue because Mark Zuckerberg is colorblind! 💙"* 😄
+*"HTML was invented in 1990, but the first website is still online today! 🌐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
