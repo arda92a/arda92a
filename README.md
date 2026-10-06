@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Stack Overflow gets over 50 million visitors per month! 📚"* 😄
+*"Reddit was originally written in Lisp but was rewritten in Python! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
