@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer game was created in 1962 and was called 'Spacewar!'! 🎮"* 😄
+*"I speak fluent Python, but still learning TensorFlow slang! 🐍"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
