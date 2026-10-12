@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"The first computer with integrated circuits was built in 1958! 🔧"* 😄
+*"Quantum computers could break current encryption in seconds! 🔐"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
