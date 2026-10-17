@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
   
 ### 🎉 Fun Fact of the Day
-*"Deep learning models can have billions of parameters! 📊"* 😄
+*"I once debugged a model for 6 hours only to find a missing comma! 😅"* 😄
 
 **⭐ If you like what you see, consider starring some repositories! ⭐**
 
